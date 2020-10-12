@@ -1,4 +1,4 @@
-module ParticipationAnalyticsWebSocketServer
+module VisualParticipationAnalyticsWebSocketServer
 
 using HTTP
 

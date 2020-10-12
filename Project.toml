@@ -1,5 +1,5 @@
-name = "ParticipationAnalyticsWebSocketServer"
-uuid = "dc84d563-1298-43ff-a639-26e679ff6751"
+name = "VisualParticipationAnalyticsWebSocketServer"
+uuid = "33ae14fa-0e2f-433c-a279-53b196b5e2d1"
 authors = ["Lars Schütz"]
 version = "0.1.0"
 

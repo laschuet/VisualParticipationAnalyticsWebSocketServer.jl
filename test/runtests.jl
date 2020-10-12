@@ -1,5 +1,5 @@
-using ParticipationAnalyticsWebSocketServer
+using VisualParticipationAnalyticsWebSocketServer
 using Test
 
-@testset "ParticipationAnalyticsWebSocketServer" begin
+@testset "VisualParticipationAnalyticsWebSocketServer" begin
 end
