@@ -1,7 +1,7 @@
 """
     start(port::Integer)
 """
-function start(port::Integer=8090)
+function start(port::Integer=3020)
     @async HTTP.listen(HTTP.Sockets.localhost, port) do http
         if HTTP.WebSockets.is_upgrade(http.message)
             HTTP.WebSockets.upgrade(http) do ws
