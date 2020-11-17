@@ -6,7 +6,7 @@
 [![coveralls status](https://coveralls.io/repos/github/laschuet/VisualParticipationAnalyticsWebSocketServer.jl/badge.svg?branch=main)](https://coveralls.io/github/laschuet/VisualParticipationAnalyticsWebSocketServer.jl?branch=main)
 [![codecov status](https://codecov.io/gh/laschuet/VisualParticipationAnalyticsWebSocketServer.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/laschuet/VisualParticipationAnalyticsWebSocketServer.jl)
 
-WebSocket server for visual participation analytics.
+WebSocket server for Visual Participation Analytics (ViPA).
 
 ## Installation
 
